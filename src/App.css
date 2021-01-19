@@ -1,6 +1,14 @@
 .App {
   text-align: center;
+  background-image: url("fond-ecran1.jpg") ;
 }
+
+html {
+
+  background-image: url("fond-ecran1.jpg") ;
+
+}
+
 
 .App-logo {
   height: 40vmin;
